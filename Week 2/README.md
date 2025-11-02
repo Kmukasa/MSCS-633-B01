@@ -43,6 +43,8 @@ http://127.0.0.1:5001
 3. The QR code will be displayed on the page
 4. You can scan the QR code with your phone to verify it works!
 
+![QR Code Generator](./QRGeneratorPage.png)
+
 ## Testing the API Endpoint Directly
 
 You can also test the API endpoint using curl:
